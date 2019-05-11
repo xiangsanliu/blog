@@ -1,9 +1,11 @@
 ---
 title: Ubuntu16.04 LTS安装MySQL数据库并设置root用户允许远程连接
 date: 2019-03-03 22:24:53
+categories: 后端
 tags: 
   - MySQL
   - 后端
+  - Ubuntu
 ---
 
 ## 1. **SQL服务端** 
