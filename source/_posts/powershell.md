@@ -12,6 +12,10 @@ tags:
 
 &emsp;&emsp;所幸，windows平台还有chocolatey和scoop两大包管理工具(当然，关于scoop是不是包管理工具，还有一些争议，这里就认为它是包管理工具吧)。但是windows的那个黑框cmd实在太丑了，而powershell的蓝框也是五十步笑百步。我又不想用第三方的终端，只好自己动手丰衣足食了。
 
+&emsp;&emsp;经过一番摸索，总算搞得还算能看了：
+
+![效果图](https://i.loli.net/2019/05/13/5cd92e3dc7cbe33034.png)
+
 ## 2 包管理工具
 
 &emsp;&emsp;chocolatey和scoop两个包管理工具我都使用过，网上对比的博文也有很多，就不展开说了。我选择的是scoop，原因只有一个，它不会申请管理员权限。它安装的软件存放路径是用户目录下的scoop文件夹，且不管装多少个软件，它往系统变量的path里只会添加一条记录(也就是不会污染path)。而chocolatey不仅需要管理员权限，还会把程序文件放得到处都是。
@@ -50,9 +54,15 @@ tags:
 
 &emsp;&emsp;找到pshazz后，我又顺藤摸瓜，找到了[lukesampson/concfg](https://github.com/lukesampson/concfg)。concfg是用于导入导出powershell配置文件的工具，所以当然也可以用来直接导入配色。仓库里没给效果图，我就给几张我试出来的吧。
 
+- onedark
+
 ![onedark](https://raw.githubusercontent.com/xiangsanliu/images/master/20190513160351.png)
 
+- pico
+
 ![pico](https://raw.githubusercontent.com/xiangsanliu/images/master/20190513160236.png)
+
+- vs-code-dark-plus
 
 ![vs-code-dark-plus](https://i.imgur.com/hainuNz.png)
 
