@@ -22,15 +22,7 @@ tags:
 
 ## 3 主题
 
-&emsp;&emsp;一开始看了少数派的文章——[5 个 PowerShell 主题，让你的 Windows 终端更好看](https://sspai.com/post/52907)。文章里用的是[JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)，但是翻了翻readme，没看到我想用的ys主题，项目中推荐的配色工具ColorTool也找到onedark配色，难道要我自己做？
-
-&emsp;&emsp;不存在的！
-
-&emsp;&emsp;我不会做!
-
-&emsp;&emsp;我太懒了!
-
-&emsp;&emsp;我太菜了!
+&emsp;&emsp;一开始看了少数派的文章——[5 个 PowerShell 主题，让你的 Windows 终端更好看](https://sspai.com/post/52907)。文章里用的是[JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)，但是翻了翻readme，没看到我想用的ys主题，项目中推荐的配色工具ColorTool也找到onedark配色，难道要我自己做？不存在的。
 
 &emsp;&emsp;只能凑活用一下oh-my-posh了。
 
@@ -38,13 +30,13 @@ tags:
 
 &emsp;&emsp;主题列表在这里 [Theme-Screenshots](https://github.com/lukesampson/pshazz/wiki/Theme-Screenshots)，先放几个主题的效果图(图片来自lukesampson/pshazz)：
 
-![ys](https://raw.githubusercontent.com/lptstr/lptstr-images/master/screenshots/pshazz/themes/ys.png)
+![ys](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200211204206.png)
 
-![steeef](https://raw.githubusercontent.com/lptstr/lptstr-images/master/screenshots/pshazz/themes/steeef.png)
+![steeef](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200211204341.png)
 
 ### 3.1 使用主题
 
-1. 安装 `scoop install pshzaa'。
+1. 安装 `scoop install pshazz'。
 
 2. 使用 `pshazz use ${主题名}`，如`pshazz use ys`，这里的主题名可以通过`pshazz list`命令查看，参考主题列表的效果图选就是了。
 
@@ -56,15 +48,15 @@ tags:
 
 - onedark
 
-![onedark](https://raw.githubusercontent.com/xiangsanliu/images/master/20190513160351.png)
+![onedark](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200211204409.png)
 
 - pico
 
-![pico](https://raw.githubusercontent.com/xiangsanliu/images/master/20190513160236.png)
+![pico](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200211204436.png)
 
 - vs-code-dark-plus
 
-![vs-code-dark-plus](https://i.imgur.com/hainuNz.png)
+![vs-code-dark-plus](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200211204531.png)
 
 ### 4.1 使用配色
 
