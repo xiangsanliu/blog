@@ -9,6 +9,8 @@ tags:
 
 家里光猫离路由器太远了，路由器又只能放客厅才会能把WIFI信号辐射到每个角落，而客厅只有一个网口，只能想办法利用这个网口即上网又看IPTV。
 
+<!--more-->
+
 直接上网络拓扑图：
 
 ![网络拓扑图](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200113173013.png)
