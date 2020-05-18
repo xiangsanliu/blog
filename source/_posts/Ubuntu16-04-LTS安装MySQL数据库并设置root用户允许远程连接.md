@@ -10,6 +10,8 @@ tags:
 
 ## 1. **SQL服务端**
 
+<!--more-->
+
 &emsp;&emsp;只需要一行命令：`apt-get install mysql-server`，安装过程中还需要设置root用户的密码
 
 ## 2. 更改root用户绑定的连接地址

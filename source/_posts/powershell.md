@@ -12,6 +12,8 @@ tags:
 
 &emsp;&emsp;所幸，windows平台还有chocolatey和scoop两大包管理工具(当然，关于scoop是不是包管理工具，还有一些争议，这里就认为它是包管理工具吧)。但是windows的那个黑框cmd实在太丑了，而powershell的蓝框也是五十步笑百步。我又不想用第三方的终端，只好自己动手丰衣足食了。
 
+<!--more-->
+
 &emsp;&emsp;经过一番摸索，总算搞得还算能看了：
 
 ![效果图](https://i.loli.net/2019/05/13/5cd92e3dc7cbe33034.png)
