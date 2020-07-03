@@ -18,6 +18,8 @@ cd AdGuardHome
 ./AdGuardHome -s install
 ```
 
+<!--more-->
+
 ## 二、AdguardHome 配置
 
 ### 1. 浏览器打开 `http://N1的IP:3000`,输入账密码、端口等，dns 的端口填 80
