@@ -12,10 +12,10 @@ tags:
 SSH 连接 N1，输入命令：
 
 ```shell
-wget https://static.adguard.com/adguardhome/release/AdGuardHome_linux_arm.tar.gz
-tar -xzvf AdGuardHome_linux_arm.tar.gz
-cd AdGuardHome
-./AdGuardHome -s install
+mkdir /opt/adguardhome
+mkdir /opt/adguardhome/conf
+mkdir /opt/adguardhome/work
+docker run --name adguardhome -v /opt/adguardhome/work:/opt/adguardhome/work -v /opt/adguardhome/conf:/opt/adguardhome/conf --restart always --net host -d adguard/adguardhome:arm64-latest
 ```
 
 <!--more-->
