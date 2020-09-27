@@ -26,7 +26,7 @@ docker run --name adguardhome -v /opt/adguardhome/work:/opt/adguardhome/work -v 
 
 ### 2. 配置 DNS
 
-![](https://cdn.jsdelivr.net/gh/xiangsanliu/images/20200703180900.png)
+![](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57gmh5asj30ew0e4gmh.jpg)
 
 #### 2.1 上游 DNS 填入以下地址，并勾选并行请求：
 
@@ -43,7 +43,7 @@ tls://1.1.1.1
 tls://1.0.0.1
 ```
 
-![](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200703181143.png)
+![](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57gnfmwzj31sc0k8djb.jpg)
 
 #### 2.2 Bootstrap DNS 服务器填入：
 
@@ -59,15 +59,15 @@ tls://1.0.0.1
 
 #### 2.3 然后点击应用，并把`DNS 服务设定`中把`速度限制`改为 0
 
-![](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200703181330.png)
+![](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57go91znj30y40aewf8.jpg)
 
 ### 3. 配置广告过滤
 
-![](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200703181418.png)
+![](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57gpmr5yj30cc0cegmb.jpg)
 
 先把自带的 3 个规则勾选上
 
-![](https://cdn.jsdelivr.net/gh/xiangsanliu/images/20200703181506.png)
+![](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57gt0kcqj31rs0byq63.jpg)
 
 然后通过点击`添加阻止列表`来添加过滤规则，这里给出我的过滤规则。
 
@@ -110,7 +110,7 @@ https://hosts.nfz.moe/full/hosts
 
 以老毛子系统为例：`内部网络(LAN) -> DHCP服务器`，在`DNS服务器 1`中填入 N1 的 IP，其它留空：
 
-![](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200703183149.png)
+![](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57gvg7paj310q0audgk.jpg)
 
 然后手机或电脑重新连接 Wi-Fi。
 
@@ -118,6 +118,6 @@ https://hosts.nfz.moe/full/hosts
 
 ## 四、效果
 
-![开启前](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200703182655.png)
+![开启前](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57gwvfsuj31a30u04kc.jpg)
 
-![开启后](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200703182910.png)
+![开启后](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57gxava9j31cu0u0qe6.jpg)

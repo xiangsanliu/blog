@@ -45,7 +45,7 @@ docker run -d \
 
 #### 2.4.3 `Containers`找到`OpenWrt`点击`Quick Action`中最右边的按钮
 
-![](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200703190221.png)
+![](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57gy0po2j30r804adg4.jpg)
 
 输入命令：
 
@@ -55,7 +55,7 @@ vi /etc/config/network
 
 按一下`i`键盘进入编辑模式，用键盘移动光标把`ipoaddr`后的 IP 地址改成 2.3 中设置的 IP 地址
 
-![](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200703190546.png)
+![](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57gynivpj30py0j2tb0.jpg)
 
 改完后，按一下`ESC`，输入`:wq`，回车，完成
 
@@ -63,7 +63,7 @@ vi /etc/config/network
 
 回到 2.4.2 中的页面，选中`OpenWrt`，点击`Restart`
 
-![](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200703190927.png)
+![](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57gzm71cj318c0b8gnf.jpg)
 
 ## 3. 设置 OpenWrt
 
@@ -73,13 +73,13 @@ vi /etc/config/network
 
 `基本设置`中的`IPV4网关`填如 2.2 中设置的 gateway
 
-![](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200703191554.png)
+![](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57h0khnzj314e0mmtbi.jpg)
 
 `DHCP服务器 -> 基本设置`中勾选`忽略此接口`
 
 `DHCP服务器 -> IPv6 设置`中全部选择`已禁用`
 
-![](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200703191844.png)
+![](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57h1fry0j315u0i0wg8.jpg)
 
 点击`保存&应用`，OpenWrt 端设置完成~
 
@@ -87,6 +87,6 @@ vi /etc/config/network
 
 以老毛子系统为例：`内部网络(LAN) -> DHCP服务器`，在`默认网关`中填入 2.3 中设置 的 IP，其它不动：
 
-![](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200703192050.png)
+![](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57h2wlrij311w0lgdjf.jpg)
 
 最后，手机或电脑重新 Wi-Fi。大功告成～

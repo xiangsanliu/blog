@@ -13,7 +13,7 @@ tags:
 
 直接上网络拓扑图：
 
-![网络拓扑图](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200113173013.png)
+![网络拓扑图](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57ghvru9j30c904uwed.jpg)
 
 ## 1. 光猫设置
 
@@ -22,19 +22,19 @@ tags:
 ### 1.1 首先设置上网
 我这里业务类型用的是路由和桥接混合模式，这个无所谓，能保证联通网络就行。LAN端口绑定全部。
 
-![网络设置](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200113173552.png)
+![网络设置](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57gintbpj30ml0g1js1.jpg)
 
 ### 1.2 接着设置IPTV
 
 记住`连接名称`43，一会儿要用，连接类型必须使用**桥接**，LAN端口绑定全部**不勾选**。
 
-![IPTV设置](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200113174002.png)
+![IPTV设置](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57gjo87jj30m60dd0ta.jpg)
 
 ### 1.3 绑定VLAN
 
 我这里eth0对应网口1，eth1对应IPTV，用户侧VLAN填1.2中记住的43，绑定WAN连接名称选择1.2中记住的`1_Other_B_VID_43`。
 
-![VLAN](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200113174327.png)
+![VLAN](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57gk2pdgj30oe06qt8r.jpg)
 
 光猫端设置完成。
 
@@ -46,13 +46,13 @@ tags:
 
 拉到最后，按如图设置，STB端口可以自行选择，`VLAN LAN4`中填的是1.3 中设置的VLAN。
 
-![wan](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200113180821.png)
+![wan](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57gkliwyj30yy0q5wg3.jpg)
 
 ### 2.2 内部网络(LAN)设置
 
 转到IPTV设置，在`组播流量`中启用`启用 IGMP/MLD 侦听`，`M2U - 以太网交换机`选择`Multicast to Unicast`。
 
-![LAN](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200113181130.png)
+![LAN](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57gllouzj30qc0gmabf.jpg)
 
 ## 参考资料
 

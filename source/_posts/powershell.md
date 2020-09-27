@@ -16,7 +16,7 @@ tags:
 
 &emsp;&emsp;经过一番摸索，总算搞得还算能看了：
 
-![效果图](https://i.loli.net/2019/05/13/5cd92e3dc7cbe33034.png)
+![效果图](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57h49k5cj30rb0hrdg7.jpg)
 
 ## 2 包管理工具
 
@@ -32,9 +32,9 @@ tags:
 
 &emsp;&emsp;主题列表在这里 [Theme-Screenshots](https://github.com/lukesampson/pshazz/wiki/Theme-Screenshots)，先放几个主题的效果图(图片来自lukesampson/pshazz)：
 
-![ys](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200211204206.png)
+![ys](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57h5ich1j30s402sq2u.jpg)
 
-![steeef](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200211204341.png)
+![steeef](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57h66dvej30m902s0sl.jpg)
 
 ### 3.1 使用主题
 
@@ -50,15 +50,15 @@ tags:
 
 - onedark
 
-![onedark](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200211204409.png)
+![onedark](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57h70nydj30nl02874a.jpg)
 
 - pico
 
-![pico](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200211204436.png)
+![pico](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57haus80j30nn01zgll.jpg)
 
 - vs-code-dark-plus
 
-![vs-code-dark-plus](https://xiangsanliu.oss-cn-hangzhou.aliyuncs.com/img/20200211204531.png)
+![vs-code-dark-plus](https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/007S8ZIlly1gj57hb8pfnj30nl023mx5.jpg)
 
 ### 4.1 使用配色
 
