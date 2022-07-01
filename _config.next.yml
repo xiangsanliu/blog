@@ -4,4 +4,26 @@ menu:
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
 
+social:
+  GitHub: https://github.com/xiangsanliu || fab fa-github
+
 scheme: Gemini
+
+minify: true
+
+darkmode: true
+
+# menu_settings:
+#   icons: false
+#   badges: true
+
+avatar:
+  # Replace the default image and set the url here.
+  url: https://cdn.jsdelivr.net/gh/xiangsanliu/images/img/202207010938501.jpeg
+  # If true, the avatar will be displayed in circle.
+  rounded: true
+
+github_banner:
+  enable: true
+  permalink: https://github.com/xiangsanliu
+  title: Follow me on GitHub
