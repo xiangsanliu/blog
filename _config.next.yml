@@ -28,12 +28,15 @@ github_banner:
   permalink: https://github.com/xiangsanliu
   title: Follow me on GitHub
 
+
+index_with_subtitle: true
+
 # See: https://developers.google.com/search
 google_site_verification: Sn_Lsc8Nsj0pvzCefH-5Ps8tdNRH43fmxYzOPLhB5LY
 
 # Bing Webmaster tools verification.
 # See: https://www.bing.com/webmasters
-bing_site_verification:
+bing_site_verification: 75dd1c66689d85b54d059579d8c4c261
 
 # Yandex Webmaster tools verification.
 # See: https://webmaster.yandex.ru
