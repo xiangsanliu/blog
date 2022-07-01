@@ -13,9 +13,8 @@ minify: true
 
 darkmode: true
 
-# menu_settings:
-#   icons: false
-#   badges: true
+motion:
+  enable: false
 
 avatar:
   # Replace the default image and set the url here.
