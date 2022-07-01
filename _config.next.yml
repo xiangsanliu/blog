@@ -32,16 +32,12 @@ github_banner:
 index_with_subtitle: true
 
 # See: https://developers.google.com/search
-google_site_verification: Sn_Lsc8Nsj0pvzCefH-5Ps8tdNRH43fmxYzOPLhB5LY
+google_site_verification: bniPdSmMgEATPxhlCBfdEUKcD5gcGMaswG18ouRKQsI
 
 # Bing Webmaster tools verification.
 # See: https://www.bing.com/webmasters
-bing_site_verification: 75dd1c66689d85b54d059579d8c4c261
-
-# Yandex Webmaster tools verification.
-# See: https://webmaster.yandex.ru
-yandex_site_verification:
+bing_site_verification: AB7BC7083C95E758EF81A2BA6B192F9D
 
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
-baidu_site_verification:
+baidu_site_verification: code-EQVdXB74wo
