@@ -13,4 +13,4 @@ Disallow: /vendors/
 Disallow: /fancybox/
 
 
-Sitemap: https://blog-dyg.pages.dev/sitemap.xml
+Sitemap: https://blog-chien.netlify.app/sitemap.xml

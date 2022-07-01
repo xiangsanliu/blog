@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog-dyg.pages.dev/
+url: https://blog-chien.netlify.app/
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -105,4 +105,6 @@ deploy:
   type: ''
 
 sitemap: 
-    path: sitemap.xml
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml

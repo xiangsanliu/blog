@@ -28,11 +28,14 @@ github_banner:
   title: Follow me on GitHub
 
 
+# ---------------------------------------------------------------
+# SEO Settings
+# See: https://theme-next.js.org/docs/theme-settings/seo
+# ---------------------------------------------------------------
 index_with_subtitle: true
 
 # See: https://developers.google.com/search
-google_site_verification: bniPdSmMgEATPxhlCBfdEUKcD5gcGMaswG18ouRKQsI
-
+google_site_verification: oEM6u4RjwlqoSfD70e1YltudcUXvB6-QavJnAtvxMIU
 # Bing Webmaster tools verification.
 # See: https://www.bing.com/webmasters
 bing_site_verification: AB7BC7083C95E758EF81A2BA6B192F9D
