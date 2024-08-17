@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 项三六的博客
-subtitle: 项三六的博客
-description: 项三六的博客
+title: 项三六的技术分析
+subtitle: 项三六的技术分析
+description: 项三六的技术分析
 keywords:
 author: 项三六
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog-chien.netlify.app/
+url: https://www.xiangsanliu.top/
 permalink: :title/
 permalink_defaults:
 pretty_urls:
